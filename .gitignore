@@ -1,0 +1,4 @@
+*.o
+src/elf-loader
+tests/out/
+tests/snippets/libc.a
